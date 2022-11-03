@@ -87,7 +87,7 @@ Para la revisión de tu Capstone Project se te asignó un mentor quien te dará 
 
 | Nombre | Correo electrónico | Github |
 | ------ | ------------------ | ------ |
-| Antonio Lopez Higuera | antonio.lopez@wizeline.com | an-lopez |
+| Baltazar Rodriguez | baltazar.rodriguez@wizeline.com | baltazarwz |
 | Diego Parra Robayo | diego.parra@wizeline.com | diego-parra-robayo |
 | Fabian Jiménez Villegas | fabian.jimenez@wizeline.com | Fabian-jv |
 | Diego Medina Padilla | diego.medina@wizeline.com | DiegoMedinaP |
@@ -112,8 +112,8 @@ Para la revisión de tu Capstone Project se te asignó un mentor quien te dará 
 | 1029731     | Lorena Alcántara                    | Alfredo Arrieta             |
 | 1027774     | Luis Esteban Fernández              | Edgar Correa                |
 | 1060891     | Óscar Sánchez                       | Edgar Correa                |
-| 1053689     | Stuart García                       | Antonio López               |
-| 0000000     | Jaime García                        | Antonio López               |
+| 1053689     | Stuart García                       | Baltazar Rodriguez          |
+| 0000000     | Jaime García                        | Baltazar Rodriguez          |
 
 
 # V. Agenda tu mentoria 📆
