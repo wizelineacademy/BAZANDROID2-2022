@@ -36,7 +36,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 5
 - [Lunes 7 Nov - Kotlin coroutines I](https://drive.google.com/file/d/16LAWO3C50NShn696WlSyt6svuW4domBt/view?usp=sharing)
-- 📺 [Grabacion Lunes 7 Nov]()
+- 📺 [Grabacion Lunes 7 Nov](https://drive.google.com/file/d/15poI4GfwYt5hVYmejpCj_FkhIWozLxrI/view?usp=sharing)
 - [Miércoles 9 Nov - Kotlin coroutines II](https://drive.google.com/file/d/1GrvJwV9yEbEnnaxa_lw-EVSDVGLG0enJ/view?usp=sharing)
 - 📺 [Grabacion Miércoles 9 Nov]()
 - [Viernes 11 Nov - Kotlin coroutines III](https://drive.google.com/file/d/1yqfmocCC3POVBJ0ONEoFwQOAVV3gQgoV/view?usp=sharing)
