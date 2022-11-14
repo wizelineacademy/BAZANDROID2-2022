@@ -41,3 +41,11 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Miércoles 9 Nov](https://drive.google.com/file/d/1ol-eqmmpH3sRZQV7XgkFonLcFw5kD5C6/view?usp=sharing)
 - [Viernes 11 Nov - Kotlin coroutines III](https://drive.google.com/file/d/1yqfmocCC3POVBJ0ONEoFwQOAVV3gQgoV/view?usp=sharing)
 - 📺 [Grabacion Viernes 11 Nov](https://drive.google.com/file/d/1YM_9dNsNiAN2_fhD5rGo7T6n_aEpQOOo/view?usp=sharing)
+
+# Semana 6
+- [Lunes 14 Nov - Jetpack Compose I](https://drive.google.com/file/d/1vkRZ583U-kjfabz8mtryuNS6d-zehnb_/view?usp=sharing)
+- 📺 [Grabacion Lunes 14 Nov]()
+- [Miércoles 16 Nov - Jetpack Compose II](https://drive.google.com/file/d/1d49-NsDgHZXURfumkZLErujSotkbqwIn/view?usp=sharing)
+- 📺 [Grabacion Miércoles 16 Nov]()
+- [Viernes 18 Nov - Jetpack COmpose III](https://drive.google.com/file/d/1UkEX1s8cP37lARB1gErtti7iOMj6eqNA/view?usp=sharing)
+- 📺 [Grabacion Viernes 18 Nov]()
