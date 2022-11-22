@@ -48,4 +48,4 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 16 Nov - Jetpack Compose II](https://drive.google.com/file/d/1d49-NsDgHZXURfumkZLErujSotkbqwIn/view?usp=sharing)
 - 📺 [Grabacion Miércoles 16 Nov](https://drive.google.com/file/d/1H2r4YgYW5pU8lCQ4KkBxPy8U8Ji190A9/view?usp=sharing)
 - [Viernes 18 Nov - Jetpack COmpose III](https://drive.google.com/file/d/1UkEX1s8cP37lARB1gErtti7iOMj6eqNA/view?usp=sharing)
-- 📺 [Grabacion Viernes 18 Nov]()
+- 📺 [Grabacion Viernes 18 Nov](https://drive.google.com/file/d/1DENynr4lAppY7H730QWQUzZRuY9SKX3o/view?usp=sharing)
